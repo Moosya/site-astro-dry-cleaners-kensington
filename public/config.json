@@ -1,0 +1,27 @@
+{
+  "shopName": "Astro Dry Cleaners",
+  "tagline": "Dry cleaning and tailoring on Church Avenue, Kensington",
+  "phone": "(718) 633-2071",
+  "address": "327 Church Ave, Brooklyn, NY 11218",
+  "hours": "Mon–Fri 9 AM – 6 PM · Sat 9 AM – 5 PM · Closed Sun",
+  "photoUrl": "hero.jpg",
+  "services": [
+    {
+      "name": "Dry cleaning",
+      "description": "Professional dry cleaning for suits, dresses, and everyday garments."
+    },
+    {
+      "name": "Laundry",
+      "description": "Wash, dry, and press when you need clothes back ready to wear."
+    },
+    {
+      "name": "Tailoring",
+      "description": "Hems, zippers, and repairs. Call or stop by for a quote."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "astro-dry-cleaners-kensington",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
